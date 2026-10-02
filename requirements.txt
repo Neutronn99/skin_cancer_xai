@@ -1,4 +1,4 @@
-tensorflow>=2.15
+tensorflow==2.22.0rc0
 xgboost>=2.0
 shap>=0.44
 scikit-learn>=1.3
